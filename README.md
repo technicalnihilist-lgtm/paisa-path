@@ -1,7 +1,4 @@
 # paisa-path
-A simple, privacy-first Android finance app for tracking expenses and monthly budgets.
-
----
 
 ## ☕ Donate / Buy me a coffee
 
@@ -85,3 +82,7 @@ If you like our work, you can support us with a donation. We are bringing this v
 - **Filipino** (Filipino): ☕ Mag-donate / Bilhan mo ako ng kape — Malapit na. Paparating na ang Paytm, PayPal at GPay. Kung gusto mo ang aming gawa, matutulungan mo kami sa pamamagitan ng donasyon. Ilalabas namin ito sa lalong madaling panahon.
 
 </details>
+
+---
+
+A simple, privacy-first Android finance app for tracking expenses and monthly budgets.
