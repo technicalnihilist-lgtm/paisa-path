@@ -1,10 +1,8 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="A simple, privacy-first Android finance app for tracking expenses and monthly budgets">
+
 <a href="https://github.com/technicalnihilist-lgtm/paisa-path/stargazers"><img src="https://img.shields.io/badge/stars-0-5A31F4?style=for-the-badge&logo=github&logoColor=white" alt="stars: 0"></a>&nbsp;<a href="https://github.com/technicalnihilist-lgtm/paisa-path/network/members"><img src="https://img.shields.io/badge/forks-0-3FB950?style=for-the-badge" alt="forks: 0"></a>
-
-<h3>A simple, privacy-first Android finance app for tracking expenses and monthly budgets</h3>
-
-<img src="https://img.shields.io/badge/Zero%20trackers-5865F2?style=flat-square" alt="Zero trackers"> <img src="https://img.shields.io/badge/Open%20source-3B3F4A?style=flat-square" alt="Open source">
 
 <b>Support the work</b>
 
@@ -12,13 +10,7 @@
 
 <sub>Donations aren't live yet — Paytm, UPI, PayPal and Buy&nbsp;Me&nbsp;a&nbsp;Coffee all show <b>coming soon</b>. Until then, a ⭐ star is the best support.</sub>
 
-<h4>Get it from</h4>
-
-<a href="https://github.com/technicalnihilist-lgtm/paisa-path"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code"></a> <a href="https://github.com/technicalnihilist-lgtm/paisa-path/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Source-ZIP-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Source ZIP"></a>
-
 </div>
-
----
 
 ---
 
