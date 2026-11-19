@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="A simple, privacy-first Android finance app for tracking expenses and monthly budgets">
+<img src="assets/banner.svg" alt="Paisa Path">
+
+<a href="https://technicalnihilist-lgtm.github.io/apps-site/apps/paisa-path.html"><img src="https://img.shields.io/badge/WEBSITE-OPEN-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 <a href="https://github.com/technicalnihilist-lgtm/paisa-path/stargazers"><img src="https://img.shields.io/badge/stars-0-5A31F4?style=for-the-badge&logo=github&logoColor=white" alt="stars: 0"></a>&nbsp;<a href="https://github.com/technicalnihilist-lgtm/paisa-path/network/members"><img src="https://img.shields.io/badge/forks-0-3FB950?style=for-the-badge" alt="forks: 0"></a>
 
